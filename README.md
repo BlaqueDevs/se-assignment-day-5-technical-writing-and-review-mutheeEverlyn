@@ -33,7 +33,7 @@ e. Adapt Your Tone & Style
 -Casual & conversational for social media, blogs and public discussions.
 -Professional & precise for business reports, documentation and technical papers.
 
-1f. Make It Interactive & Engaging
+f. Make It Interactive & Engaging
 -Use Q&A sections, quizzes, or real-world case studies to keep different audiences engaged.
 
 ## 3. How can you gauge the existing knowledge of your audience to avoid overwhelming them with jargon?
