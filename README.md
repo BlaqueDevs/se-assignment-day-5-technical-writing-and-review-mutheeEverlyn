@@ -45,7 +45,7 @@ b. Observe Their Language & Questions
 If they use technical terms, they likely have expertise.
 If they ask basic questions, they may need simpler explanations.
 
-c5. Check Their Background & Role
+c. Check Their Background & Role
 Developers & engineers → Likely comfortable with technical jargon.
 Business professionals & general users → Prefer clear, non-technical language.
 
@@ -147,13 +147,13 @@ Example: A network diagram for an ERD (Entity-Relationship Diagram) for database
 c. Charts (Bar, Line, Pie) – Best for Data & Trends.They are used when comparing statistics, visualizing growth, or showing trends over time.
 Example: a bar chart comparing different frameworks’ performance using excel.
 
-4. Tables – Best for Structured Data Comparisons.They are used when displaying precise numbers, configurations, or feature comparisons.
+d. Tables – Best for Structured Data Comparisons.They are used when displaying precise numbers, configurations, or feature comparisons.
 Example: A table comparing programming languages by execution speed and memory usage using google sheets.
 
-5. Wireframes & UI Mockups – Best for User Interfaces.This is used when designing app layouts, user flows, and UI/UX elements.
+e. Wireframes & UI Mockups – Best for User Interfaces.This is used when designing app layouts, user flows, and UI/UX elements.
 Example: A wireframe of a mobile app login page before development starts using Figma.
 
-6. Gantt Charts – Best for Project Management & Timelines.They are used when planning software development cycles, sprint timelines, or task dependencies.
+f. Gantt Charts – Best for Project Management & Timelines.They are used when planning software development cycles, sprint timelines, or task dependencies.
 Example: A Gantt chart showing Agile sprint planning with deadlines using Trello.
 
 ## 9. How do headings and subheadings improve the readability and organization of technical documents?
