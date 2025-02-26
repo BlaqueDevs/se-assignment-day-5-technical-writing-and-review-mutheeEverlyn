@@ -10,55 +10,55 @@ For Regular Folks: You should use simple language and step-by-step explanations 
 "Think of OAuth 2.0 like a digital key that lets you safely log in to an app without sharing your password."
 
 ## 2. What are some strategies to tailor your content to different audience types?
-1. Understand Your Audience
+a. Understand Your Audience
 -Identify their knowledge level (beginner, intermediate, or expert).
 -Consider their interests, needs and goals related to the topic.
 
-3. Adjust Language & Complexity
+b. Adjust Language & Complexity
 -For beginners → Use simple language, avoid jargon and explain concepts clearly.
 -For intermediates → Use some technical terms with brief explanations.
 -For experts → Use industry-specific language and focus on depth.
 
-5. Use the Right Format
+c. Use the Right Format
 -General audience → Blog posts and explainer videos.
 -Technical professionals → Whitepapers, detailed reports and documentation.
 -Business stakeholders → Case studies, presentations and executive summaries.
 
-7. Provide Relevant Examples & Analogies
+d. Provide Relevant Examples & Analogies
 -For non-technical users → Compare to real-world scenarios.
 Example: “A database is like a digital filing cabinet storing information.”
 -For technical users → Provide in-depth comparisons and code snippets.
 
-9. Adapt Your Tone & Style
+e. Adapt Your Tone & Style
 -Casual & conversational for social media, blogs and public discussions.
 -Professional & precise for business reports, documentation and technical papers.
 
-11. Make It Interactive & Engaging
+1f. Make It Interactive & Engaging
 -Use Q&A sections, quizzes, or real-world case studies to keep different audiences engaged.
 
 ## 3. How can you gauge the existing knowledge of your audience to avoid overwhelming them with jargon?
-1. Ask Questions in the beginning
+a. Ask Questions in the beginning
 Use surveys, polls, or questionnaires to assess their familiarity with the topic.
 Example: "On a scale of 1-5, how familiar are you with cloud computing?"
 
-3. Observe Their Language & Questions
+b. Observe Their Language & Questions
 If they use technical terms, they likely have expertise.
 If they ask basic questions, they may need simpler explanations.
 
-5. Check Their Background & Role
+c5. Check Their Background & Role
 Developers & engineers → Likely comfortable with technical jargon.
 Business professionals & general users → Prefer clear, non-technical language.
 
-7. Start with Simple Explanations & Adjust Accordingly
+d. Start with Simple Explanations & Adjust Accordingly
 Begin with a clear, high-level explanation before diving deeper.
 Ask: “Would you like me to elaborate on this, or does it make sense?”
 
-9. Use Analogies & See Their Reaction
+e. Use Analogies & See Their Reaction
 If they understand quickly, they may not need further simplification.
 If they seem confused, break it down further.
 Example: Instead of “DNS resolves domain names to IP addresses”, say “DNS is like a phonebook for websites.”
 
-11. Offer Different Levels of Explanation
+f. Offer Different Levels of Explanation
 Provide basic, intermediate, and advanced versions of content.
 Example: "For beginners: APIs let apps talk to each other. For developers: APIs define interactions between software components using protocols like REST or GraphQL."
 
